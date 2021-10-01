@@ -1,0 +1,8 @@
+
+int loo1
+ip add 10.10.10.10 255.255.255.255
+no shut
+
+int loo2
+ip add 20.20.20.20 255.255.255.255
+no shut
